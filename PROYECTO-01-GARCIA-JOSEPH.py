@@ -35,3 +35,4 @@ exportación, indica:
 ● ¿Le conviene implementar esa estrategia? ¿Por qué? 
     Creo que sí, aunque existen algunos riesgos; como por ejemplo el que las rutas menos utilizadas empiezen a funcionar aún peor
     y que los cambios en sus rutas más utilizadas no sean lo suficientemente grandes como para compensarlo
+"""
